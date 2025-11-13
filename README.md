@@ -19,11 +19,8 @@ Write the C Program using Linux Process API - Shared Memory
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-
-## Write a C program that illustrates two processes communicating using shared memory.
-
 ```
-//sem.c
+## Write a C program that illustrates two processes communicating using shared memory.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -130,16 +127,15 @@ int main() {
         exit(EXIT_SUCCESS);
     }
 }
-
 ```
 
 
 
+
 ## OUTPUT
+<img width="649" height="445" alt="Screenshot from 2025-11-10 11-07-04" src="https://github.com/user-attachments/assets/d871e2bb-5e11-460c-9d7b-31b10fac72f1" />
 
-
-![Alt text](os_exp6_1.png)
-![Alt text](os_exp6_2.png)
+<img width="649" height="107" alt="image" src="https://github.com/user-attachments/assets/8b986a3e-39fb-49c4-a212-2e869ed92f74" />
 
 
 # RESULT:
